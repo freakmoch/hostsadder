@@ -10,10 +10,10 @@ Needs .NetFramework 4.0+ to work.
 
 ### How To Use:
 
-> Host File
+Host File
 The program will automaticly look for your hosts file and input it in this box. The browse is there incase you have your hosts file on another drive, partition, ect.
 
-> Enter URL
+Enter URL
 This is obviously where you put the url. DO NOT PUT WWW IN FRONT OF THE URL! The program does that for you automaticly. 
 If you process the URL and it shows that the url can be added in, it will let you click the Add button
 
